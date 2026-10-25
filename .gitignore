@@ -1,2 +1,7 @@
+get_height.py
+get_map_by_range.py
+scatter.py
+visualize_test.py
+xyz/seamlessphoto/*
 xyz/dem_merge/*
 !xyz/dem_merge/.gitkeep
