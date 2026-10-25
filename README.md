@@ -6,7 +6,7 @@
 
 地形スタイル、表示形式、視点を切り替えた画面例です。
 
-<table align="left" width="760">
+<table width="760">
   <colgroup>
     <col width="380">
     <col width="380">
