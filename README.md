@@ -6,10 +6,10 @@
 
 地形スタイル、表示形式、視点を切り替えた画面例です。
 
-<table align="left" width="100%">
+<table align="left" width="760">
   <colgroup>
     <col width="380">
-    <col width="">
+    <col width="380">
   </colgroup>
   <tr>
     <td align="left"><img src="sample_images/01-midnight-point-cloud.png" alt="Midnightスタイルの点群表示" width="340"><br>Midnight・点群表示</td>
