@@ -2,6 +2,36 @@
 
 日本の標高タイルを表示するWebベースの3D地形ビューアです。
 
+## 表示例
+
+地形スタイル、表示形式、視点を切り替えた画面例です。
+
+### Midnight・点群表示
+
+![Midnightスタイルの点群表示](sample_images/01-midnight-point-cloud.png)
+
+### Archipelago・ワイヤーフレーム表示
+
+![Archipelagoスタイルのワイヤーフレーム表示](sample_images/02-archipelago-wireframe.png)
+
+![Archipelagoスタイルのワイヤーフレーム表示（別視点）](sample_images/03-archipelago-wireframe-detail.png)
+
+### Archipelago・3D表示
+
+![Archipelagoスタイルの3D表示](sample_images/04-archipelago-terrain-3d.png)
+
+### Aurora・メッシュ表示
+
+![Auroraスタイルのメッシュ表示](sample_images/05-aurora-mesh.png)
+
+### Frontier・日本列島の表示
+
+![Frontierスタイルで日本列島を表示](sample_images/06-frontier-japan-point-cloud.png)
+
+### 等高線表示
+
+![等高線の表示例](sample_images/07-contour-lines.png)
+
 ## 起動方法
 
 このフォルダーをカレントディレクトリにして、ローカルHTTPサーバーを起動します。
